@@ -107,7 +107,7 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Seoul"
   email            : "spaceofneed2@gmail.com"
-  links:
+  links            : "https://github.com/dlslrksk"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
