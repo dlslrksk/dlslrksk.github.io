@@ -5,7 +5,7 @@ date:   2022-05-06 10:27:42 +0900
 categories: github
 ---
 
-![post-thumbnail](/Users/jeon-youseok/Desktop/dlslrksk.github.io/img/2022-05-06/git.png)
+![post-thumbnail](<img width="600" alt="git" src="https://user-images.githubusercontent.com/96412661/167056977-3a5f75b1-8016-4a3b-97e7-4b8c6200b880.png">)
 
 > _**# INDEX**  
 > _  
