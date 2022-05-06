@@ -10,6 +10,8 @@ tags:
   - markup
 ---
 
+<img width="600" alt="git" src="https://user-images.githubusercontent.com/96412661/167056977-3a5f75b1-8016-4a3b-97e7-4b8c6200b880.png">
+
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 
 * Lists within lists do not break the ordered list numbering order
