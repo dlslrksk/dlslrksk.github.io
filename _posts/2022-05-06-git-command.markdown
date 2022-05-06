@@ -5,7 +5,7 @@ date:   2022-05-06 10:27:42 +0900
 categories: github
 ---
 
-![post-thumbnail]('https://user-images.githubusercontent.com/96412661/167056977-3a5f75b1-8016-4a3b-97e7-4b8c6200b880.png')
+![post-thumbnail](https://github.com/dlslrksk/dlslrksk.github.io/issues/1#issue-1227352240)
 
 > _**# INDEX**  
 > _  
