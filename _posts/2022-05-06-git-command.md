@@ -5,7 +5,7 @@ date:   2022-05-06 10:27:42 +0900
 categories: github
 ---
 
-![post-thumbnail]('../img/2022-05-06/git.png')
+![post-thumbnail](https://velog.velcdn.com/images/delilah/post/38ba1d57-404f-4e80-81f8-120bc37477c2/git.png)
 
 > _**# INDEX**  
 > _  
